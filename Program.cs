@@ -7,6 +7,8 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            // новые изменения
+            Console.ReadLine();
         }
     }
 }
